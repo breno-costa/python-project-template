@@ -21,13 +21,13 @@ A modern Python project template with best practices baked in.
 
 ## Quick Start
 
-To generate a new project using this template, you need to install copier as follows:
+First, install [Copier](https://copier.readthedocs.io/):
 
-```
+```bash
 brew install copier
 ```
 
-Then create a new project:
+Then scaffold your new project:
 
 ```bash
 copier copy gh:breno.costa/python-project-template my-project
